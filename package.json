@@ -29,9 +29,7 @@
   "bugs": {
     "url": "https://github.com/eugeneware/gifencoder/issues"
   },
-  "dependencies": {
-    "canvas": "^2.2.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "after": "~0.8.1",
     "concat-stream": "^1.4.6",
